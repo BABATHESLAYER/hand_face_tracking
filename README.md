@@ -1,4 +1,8 @@
 # hand_face_tracking
+
+![image](https://github.com/user-attachments/assets/f30afb98-6b69-496d-9ef9-1f1b86eb7141)
+
+
 Real-Time Hand Tracking and Face Mesh Visualization Using Python
 Introduction
 In this article, we will explore a Python script that utilizes the OpenCV and Mediapipe libraries to perform real-time hand tracking and face mesh visualization. This code captures video from a webcam, processes the frames to detect hand landmarks and facial features, and then displays the results in a window. The integration of these technologies allows for interactive applications in fields such as augmented reality, gaming, and human-computer interaction.
