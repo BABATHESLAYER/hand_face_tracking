@@ -10,9 +10,9 @@ In this article, we will explore a Python script that utilizes the OpenCV and Me
 # Key Concepts
 Before diving into the code, let's clarify some key concepts:
 
-# OpenCV: An open-source computer vision library that provides tools for image processing and computer vision tasks.
-# Mediapipe: A framework developed by Google that enables the building of multimodal applied machine learning pipelines, particularly for tasks like face detection, hand tracking, and pose estimation.
-# Landmarks: Specific points on a detected object (like hands or face) that can be used for further analysis or visualization.
+OpenCV: An open-source computer vision library that provides tools for image processing and computer vision tasks.
+Mediapipe: A framework developed by Google that enables the building of multimodal applied machine learning pipelines, particularly for tasks like face detection, hand tracking, and pose estimation.
+Landmarks: Specific points on a detected object (like hands or face) that can be used for further analysis or visualization.
 
 # Code Structure
 The code is structured to initialize the necessary libraries, capture video input, process each frame for hand and face detection, and visualize the results. Here’s a breakdown of the main components:
